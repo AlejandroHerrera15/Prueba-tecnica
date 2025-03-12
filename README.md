@@ -1,1 +1,2 @@
-# Prueba-t-cnica
+# Prueba-tecnica
+- Alejandro Herrera Rivera
